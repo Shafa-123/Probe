@@ -1,0 +1,52 @@
+[
+    {
+        "1": "Which is the world’s smallest city?",
+        "2": "What country has the longest coastline in the world?",
+        "3": "To the nearest billion, how large is the world’s population?",
+        "4": "How do you measure the speed of wind?",
+        "5": "What is the largest desert in the world?"
+    },
+
+    {
+        "1": {
+            "a": "Vatican",
+            "b": "Tokyo",
+            "c": "Seoul",
+            "d": "Hum"
+        },
+        "2": {
+            "a": "Canada",
+            "b": "USA",
+            "c": "Australia",
+            "d": "Turkey"
+        },
+        "3": {
+            "a": "6.8",
+            "b": "7.8",
+            "c": "5.8",
+            "d": "9.8"
+        },
+        "4": {
+            "a": "Barometer",
+            "b": "Potentiometer",
+            "c": "Anemometer",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "Thar Desert",
+            "b": "Great Basin",
+            "c": "Sahara Desert",
+            "d": "Antarctic desert"
+        }
+        
+    },
+    {
+        "1": "Vatican",
+        "2": "Canada",
+        "3": "7.8",
+        "4": "Anemometer",
+        "5": "Antarctic desert"
+    }
+]
+
+

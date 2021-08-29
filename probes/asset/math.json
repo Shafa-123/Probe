@@ -1,0 +1,52 @@
+[
+    {
+        "1": "Which number is equivalent to 3^(4)÷3^(2)",
+        "2": "I am an odd number. Take away one letter and I become even. What number am I?",
+        "3": "Solve  -15+(-5x) =0",
+        "4": "What Number Comes Before 9019?",
+        "5": "Look at this series: 36, 34, 30, 28, 24, … What number should come next?"
+    },
+
+    {
+        "1": {
+            "a": "4",
+            "b": "5",
+            "c": "9",
+            "d": "1"
+        },
+        "2": {
+            "a": "Five",
+            "b": "Seven",
+            "c": "Nine",
+            "d": "Two"
+        },
+        "3": {
+            "a": "-3",
+            "b": "3",
+            "c": "1",
+            "d": "-1"
+        },
+        "4": {
+            "a": "9018",
+            "b": "9020",
+            "c": "9109",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "12",
+            "b": "14",
+            "c": "31",
+            "d": "22"
+        }
+        
+    },
+    {
+        "1": "1",
+        "2": "Seven",
+        "3": "-3",
+        "4": "None of these",
+        "5": "22"
+    }
+]
+
+

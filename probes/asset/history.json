@@ -1,0 +1,52 @@
+[
+    {
+        "1": "Satyagraha was started by Gandhi ji in 1919 to protest against the _____________?",
+        "2": "In which year the first nationwide non cooperation movement was launched in India?",
+        "3": "Who among the following was the Viceroy of India when the Revolt of 1857 occurred?",
+        "4": "Who introduce English as official language?",
+        "5": "The Indian University Act was passed in the year"
+    },
+
+    {
+        "1": {
+            "a": "Salt Law",
+            "b": "Rowlatt Act",
+            "c": "Act of 1909",
+            "d": "Act of 1919"
+        },
+        "2": {
+            "a": "1910",
+            "b": "1915",
+            "c": "1920",
+            "d": "1925"
+        },
+        "3": {
+            "a": "Lord Dalhousie",
+            "b": "Lord Canning",
+            "c": "Major William Taylor",
+            "d": "Gen. Hugh Rose"
+        },
+        "4": {
+            "a": "Lord William Bentick",
+            "b": "Sir Charles Wood",
+            "c": "Dalhousie",
+            "d": "Allan Octawain Hume"
+        },
+        "5": {
+            "a": "1904",
+            "b": "1907",
+            "c": "1912",
+            "d": "1915"
+        }
+        
+    },
+    {
+        "1": "Rowlatt Act",
+        "2": "1920",
+        "3": "Lord Canning",
+        "4": "Sir Charles Wood",
+        "5": "1904"
+    }
+]
+
+

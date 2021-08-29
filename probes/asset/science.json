@@ -1,0 +1,52 @@
+[
+    {
+        "1": "What is a material that will not carry an electrical charge called?",
+        "2": "What is the most abundant gas in the Earth’s atmosphere?",
+        "3": "Oil, natural gas and coal are examples of …",
+        "4": "The concept of gravity was discovered by which famous physicist?",
+        "5": "At what temperature are Celsius and Fahrenheit equal?"
+    },
+
+    {
+        "1": {
+            "a": "Semiconductor",
+            "b": "Conductors",
+            "c": "Insulators",
+            "d": "Superconductors"
+        },
+        "2": {
+            "a": "Nitrogen",
+            "b": "Oxygen",
+            "c": "Hydrogen",
+            "d": "Carbon Dioxide"
+        },
+        "3": {
+            "a": "Biofuels",
+            "b": "Renewable resources",
+            "c": "Geothermal resources",
+            "d": "Fossil fuels"
+        },
+        "4": {
+            "a": "Albert Einstein",
+            "b": "Alexander Graham Bell",
+            "c": "Thomas Edison",
+            "d": "Sir Isaac Newton"
+        },
+        "5": {
+            "a": "-20",
+            "b": "-50",
+            "c": "-40",
+            "d": "-70"
+        }
+        
+    },
+    {
+        "1": "Insulators",
+        "2": "Nitrogen",
+        "3": "Fossil fuels",
+        "4": "Sir Isaac Newton",
+        "5": "-40"
+    }
+]
+
+
